@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/TypoMaster/static/css/main.a61970f6.chunk.css",
+    "main.js": "/TypoMaster/static/js/main.e8ec24d9.chunk.js",
+    "main.js.map": "/TypoMaster/static/js/main.e8ec24d9.chunk.js.map",
+    "runtime-main.js": "/TypoMaster/static/js/runtime-main.d0fd3b96.js",
+    "runtime-main.js.map": "/TypoMaster/static/js/runtime-main.d0fd3b96.js.map",
+    "static/js/2.31ec9a02.chunk.js": "/TypoMaster/static/js/2.31ec9a02.chunk.js",
+    "static/js/2.31ec9a02.chunk.js.map": "/TypoMaster/static/js/2.31ec9a02.chunk.js.map",
+    "index.html": "/TypoMaster/index.html",
+    "static/css/main.a61970f6.chunk.css.map": "/TypoMaster/static/css/main.a61970f6.chunk.css.map",
+    "static/js/2.31ec9a02.chunk.js.LICENSE.txt": "/TypoMaster/static/js/2.31ec9a02.chunk.js.LICENSE.txt",
+    "static/media/landing.b3ac1374.png": "/TypoMaster/static/media/landing.b3ac1374.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0fd3b96.js",
+    "static/js/2.31ec9a02.chunk.js",
+    "static/css/main.a61970f6.chunk.css",
+    "static/js/main.e8ec24d9.chunk.js"
+  ]
+}
