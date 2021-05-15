@@ -77,7 +77,7 @@ class App extends React.Component {
   handleUSerInput = (InputValue) => {
     if (!this.state.timerStarted) this.startTimer();
     const characters = InputValue.length;
-    const words = InputValue.split(' ').length;
+    const words = InputValue.split(' ').length + 1 ;
     const index = characters - 1;
 
     //  * 1. Handle the underflow case - all characters should be shown as not-attempted
@@ -99,7 +99,8 @@ class App extends React.Component {
     if (index >= this.state.selectedParagraph.length) {
       this.setState({
         characters,
-        words,
+        words: words-1,
+        timeRem:0,
       });
       return;
     }

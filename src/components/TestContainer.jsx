@@ -17,7 +17,7 @@ const TestContainer = ({
   return (
     <div className='test-container'>
       {timeRem > 0 ? (
-        <div data-aos='fade-up' className='typing-cont'>
+        <div className='typing-cont'>
           <TypingContainer
             testInfo={testInfo}
             selectedParagraph={selectedParagraph}

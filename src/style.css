@@ -84,7 +84,7 @@ a.nav-link:hover {
   font-family: 'Dancing Script', cursive;
 }
 .landing-image {
-  width: 30vw;
+  width: 40vw;
 }
 
 @media (max-width: 768px) {
